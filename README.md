@@ -1,3 +1,4 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jhon-elen/Prueba3?quickstart=1)
 
 # Vamos de Viaje
 
