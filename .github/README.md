@@ -13,3 +13,7 @@ Sin miedo al éxito
 ```python
 print("Hola Mundo!!!!")
 ```
+
+## Contribuir al Proyecto
+
+¡Nos encantaría tu ayuda para mejorar este proyecto! Por favor, revisa nuestras [Pautas de Contribución](./CONTRIBUTING) antes de comenzar.
