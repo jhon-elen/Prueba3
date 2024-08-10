@@ -24,5 +24,6 @@ if __name__ == '__main__':
     another_function()
     print(os.getcwd())
     print("hola")
+    print("que tal")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
