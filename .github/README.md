@@ -1,6 +1,11 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jhon-elen/Prueba3?quickstart=1)
 
-# Vamos de Viaje
+# Acerca de este Proyecto
+
+Este solo es un proyecto para probar las diferentes herramientas y conceptos de GitHub. El proyecto no tiene, como tal, un proposito específico más alla de solo realizar pruebas, probar las características, testear las automatizaciones, etc.
+
+
+## Vamos de Viaje
 
 *Fernandita viajera*
 
