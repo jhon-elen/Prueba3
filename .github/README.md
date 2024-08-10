@@ -2,7 +2,7 @@
 
 # Acerca de este Proyecto
 
-Este solo es un proyecto para probar las diferentes herramientas y conceptos de GitHub. El proyecto no tiene, como tal, un proposito específico más alla de solo realizar pruebas, probar las características, testear las automatizaciones, etc.
+Este proyecto solo es para probar las diferentes herramientas y conceptos de GitHub. El proyecto no tiene, como tal, un proposito específico más alla de solo realizar pruebas, probar las características, testear las automatizaciones, etc.
 
 
 ## Vamos de Viaje
