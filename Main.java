@@ -14,5 +14,6 @@ public class Main {
         for (Map.Entry<String, Integer> entry: persona.entrySet()) {
             System.out.println("Nombre: " + entry.getKey() + ", Edad: " + entry.getValue());
         }
+        List<String> name = persona.getKey();
     } 
 }
