@@ -1,5 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
+import java.util.List;
 
 /**
  * Main
@@ -14,6 +15,6 @@ public class Main {
         for (Map.Entry<String, Integer> entry: persona.entrySet()) {
             System.out.println("Nombre: " + entry.getKey() + ", Edad: " + entry.getValue());
         }
-        List<String> name = persona.getKey();
+        List<Integer> edad = persona.values().stream().toList();
     } 
 }
