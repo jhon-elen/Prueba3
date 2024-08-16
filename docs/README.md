@@ -13,7 +13,7 @@ _Somos Pucallpa_
 
 ***¡Puah tarjetazo, dios proveera!***
 
-Sin miedo al éxito
+\*Sin miedo al éxito\*
 
 ```python
 print("Hola Mundo!!!!")
